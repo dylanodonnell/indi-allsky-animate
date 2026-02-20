@@ -1,4 +1,27 @@
-# indi-allsky-animate
-Just a PHP page that will loop your allsky-indi remote images in a near-realtime loop. Add it in the root directory of the location you set FTP to dump the files/folders too, or define the BASEDIR if you want to put it somewhere else in your webserver's folder structure. 
+# INDI Allsky Animate
 
-Demo : https://byronbayobservatory.com.au/allsky/
+## Installation
+Follow these steps to install the INDI Allsky Animate software...
+
+## Configuration
+Instructions on how to configure the software...
+
+## Usage
+Instructions on how to use the software...
+
+## Requirements
+- Requirement 1
+- Requirement 2
+- Requirement 3
+
+## Project Details
+Details about the project and what it does...
+
+## Contributing
+Guidelines on how to contribute to the project...
+
+## Support
+Information on how to get support...
+
+## License
+This project is licensed under the Public Domain.
