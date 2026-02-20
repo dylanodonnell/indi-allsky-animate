@@ -1,6 +1,8 @@
 # indi-allsky-animate
 Just a PHP page that will loop your allsky-indi remote images in a near-realtime loop.
 
+![All-Sky Screenshot](https://byronbayobservatory.com.au/allsky/allskybbo.jpg)
+
 Demo : https://byronbayobservatory.com.au/allsky/
 
 ## Installation
